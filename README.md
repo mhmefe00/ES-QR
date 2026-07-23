@@ -1,4 +1,4 @@
 # ES-QR
-ES-QR Project is a desktop application for parking lots, integrated with the API of Metcom License Plate Recognition Systems company. A QR Code is created when the person enters the car park, and when he leaves, he shows that QR Code to the camera and exits the car park. 
+ES-QR is a desktop application designed for parking lots, seamlessly integrated with the Metcom License Plate Recognition System API. It automatically generates a unique QR code upon vehicle entry. To exit, the driver simply scans the QR code via the camera, ensuring a smooth and automated checkout process.
 
 NOTE:I don't know how to publish my project to here. Im gonna figure out soon
